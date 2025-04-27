@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# IDE/editor files
+.vscode/
+__pycache__/
+.DS_Store
+
+# Output files
+*.log
+*.sqlite
+*.db
+.parquet
