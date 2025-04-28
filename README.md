@@ -1,1 +1,1 @@
-# Investment Memo Generator for Angels
+# Investment Memo Generator
